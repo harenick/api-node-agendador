@@ -1,7 +1,7 @@
 
 # Agendador API
 
-```A Rest API that helps you to manage your schedules in a small company``` 🚀
+```A Rest API that helps you to manage schedules for a small company``` 🚀
 
 # 🧰 Tools
 
