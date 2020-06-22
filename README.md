@@ -71,12 +71,12 @@ Status Codes
 API returns the following status codes in its API:
 
 | Status Code	  | Description           |
-|:-------------:|:---------------------:|
+|:---------------:|:---------------------:|
 |200	          | OK                    |
-|422	          |UNPROCESSABLE ENTITY   |
-|400            |	BAD REQUEST           |
-|404            |	NOT FOUND             |
-|500            |INTERNAL SERVER ERROR  |
+|400              |	BAD REQUEST           |
+|401              |	UNAUTHORIZED          |
+|404              |	NOT FOUND             |
+|500              |INTERNAL SERVER ERROR  |
 
 # 📮 Faq <a name="faq"></a>
 Question: What are the tecnologies used in this project?
