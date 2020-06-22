@@ -84,7 +84,7 @@ Question: What are the tecnologies used in this project?
 Answer: The tecnologies used in this project are NodeJS + Express Framework to handle the server and Sequelize
 
 # 🐛 Issues <a name="bug"></a>
-Feel free to file a new issue with a respective title and description on the the Apice API repository. If you already found a solution to your problem, i would love to review your pull request! Have a look at our contribution guidelines to find out about the coding standards.
+Feel free to file a new issue with a respective title and description on the the Agendador API repository. If you already found a solution to your problem, i would love to review your pull request! Have a look at our contribution guidelines to find out about the coding standards.
 
 # 🎉 Contributing <a name="contrib"></a>
 Check out the contributing page to see the best places to file issues, start discussions and begin contributing.
